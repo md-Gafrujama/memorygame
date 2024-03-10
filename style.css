@@ -111,3 +111,15 @@ button {
     color: #7303c0;
 }
 
+.moves{
+    padding-top: 25px;
+    color: #FFF;
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 0 auto;
+    background-color: #3f2ef8;
+    width: 100px;
+    min-height: 30px;
+    padding: 8px;
+    border-radius: 10px;
+}
